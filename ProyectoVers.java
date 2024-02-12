@@ -14,4 +14,13 @@ public class ProyectoVers {
 	
 	private int answer;
 
+	
+	public ProyectoVers() {
+		
+		this.a = 0;
+		
+		this.b = 0;
+		
+		this.answer = 0;
+	}
 }
